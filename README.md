@@ -1,6 +1,6 @@
 # Counter
 
-First Flutter project constrcuted fully from zero.
+First Flutter project constructed fully from zero.
 
 ## Main objective
 
